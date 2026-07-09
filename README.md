@@ -3,7 +3,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:7dd3fc&height=220&section=header&text=Ankit%20Kumar&fontSize=55&animation=twinkling&fontColor=1a1a1a&fontAlignY=38&desc=CS%20Student%20(AI%2FML)&descAlignY=58&descSize=20)
 
 <a href="https://github.com/Ankitmishra95">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+scalable+web+apps+with+Django+%26+React;Exploring+AI%2FML+%26+intelligent+systems;Solved+50%2B+DSA+problems+on+LeetCode;Open+to+Software+Engineering+roles;&center=true&width=600&height=45&color=7dd3fc&vCenter=true&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+scalable+web+apps+with+Django+%26+React;Exploring+AI%2FML+%26+intelligent+systems;Solved+150%2B+DSA+problems+on+LeetCode;Open+to+Software+Engineering+roles;&center=true&width=600&height=45&color=7dd3fc&vCenter=true&size=22" alt="Typing SVG" />
 </a>
 
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-7dd3fc?style=for-the-badge&logo=briefcase&logoColor=1a1a1a&labelColor=1a1a1a)
